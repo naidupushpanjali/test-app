@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test-app/static/css/main.f2a438cb.chunk.css",
+    "main.js": "/test-app/static/js/main.fe98eec1.chunk.js",
+    "main.js.map": "/test-app/static/js/main.fe98eec1.chunk.js.map",
+    "runtime-main.js": "/test-app/static/js/runtime-main.847fb34c.js",
+    "runtime-main.js.map": "/test-app/static/js/runtime-main.847fb34c.js.map",
+    "static/css/2.f65acde2.chunk.css": "/test-app/static/css/2.f65acde2.chunk.css",
+    "static/js/2.cee81ff5.chunk.js": "/test-app/static/js/2.cee81ff5.chunk.js",
+    "static/js/2.cee81ff5.chunk.js.map": "/test-app/static/js/2.cee81ff5.chunk.js.map",
+    "index.html": "/test-app/index.html",
+    "precache-manifest.20a733b70e1615c99d946e527a2383a3.js": "/test-app/precache-manifest.20a733b70e1615c99d946e527a2383a3.js",
+    "service-worker.js": "/test-app/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/test-app/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.f2a438cb.chunk.css.map": "/test-app/static/css/main.f2a438cb.chunk.css.map",
+    "static/js/2.cee81ff5.chunk.js.LICENSE.txt": "/test-app/static/js/2.cee81ff5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-app/static/media/Poppins-SemiBold.22cac2ca.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.847fb34c.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.cee81ff5.chunk.js",
+    "static/css/main.f2a438cb.chunk.css",
+    "static/js/main.fe98eec1.chunk.js"
+  ]
+}
